@@ -1,4 +1,4 @@
-# Coronavirus (Covid-19) Data in the United States
+# Coronavirus (Covid-19) Data in the Netherlands
 
 **FEB. 8, 2023 UPDATE: In the coming weeks, most likely in March, the data for daily cases and deaths will no longer be updated. The Times plans to change its Covid tracking pages to use data from the federal government. This GitHub repo will serve as an archive of the daily case and death reporting that The Times has done since early 2020. For more information, please see [this issue](https://github.com/nytimes/covid-19-data/issues/702).**
 
